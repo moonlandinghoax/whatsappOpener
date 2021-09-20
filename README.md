@@ -1,1 +1,1 @@
-# whatsappOpener
+Entwickelt von Julius Reinhardt
